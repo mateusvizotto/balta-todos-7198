@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "783748193664",
+    "firebase_url": "https://todos-14d9d.firebaseio.com",
+    "project_id": "todos-14d9d",
+    "storage_bucket": "todos-14d9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783748193664:android:e6e6836a2d8b5e5283b565",
+        "android_client_info": {
+          "package_name": "io.balta.todos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783748193664-os2cf6iuimd3383o498m0i34ng0c6dpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.balta.todos",
+            "certificate_hash": "ed53fd21c4fc33a981a4b14508caaadd224ac2a5"
+          }
+        },
+        {
+          "client_id": "783748193664-u1jgit7e7u0983n9v21455rfl1ingglv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwBzZytH2MQp1HqO7S-nq6yAib3CLszdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783748193664-u1jgit7e7u0983n9v21455rfl1ingglv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
